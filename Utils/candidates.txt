@@ -1,0 +1,13 @@
+001,Bruce,Wayne,PRES,IND,0
+002,Steven,Rogers,PRES,DMC,0
+003,James,Howlett,PRES,DMC,0
+004,Robert,Banner,PRES,IND,0
+005,Clark,Kent,SENT,RPC,0
+006,Peter,Parker,SENT,RPC,0
+007,Tony,Starks,SENT,LBT,0
+011,Raven,Darkholme,SENT,GRN,0
+008,Charles,Xavier,HOSR,LBT,0
+009,Harvey,Dent,HOSR,GRN,0
+010,Hans,Solo,HOSR,RPC,0
+012,Steven,Segal,HOSR,DMC,0
+
